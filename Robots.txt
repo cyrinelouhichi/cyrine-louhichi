@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /
+#Indiquer l'adresse du fichier sitemap.xml
+Sitempa: https://cyrinelouhichi.github.io/cyrine-louhichi/sitemap.xml
